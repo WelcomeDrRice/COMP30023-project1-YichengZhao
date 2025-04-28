@@ -1,3 +1,6 @@
+//project 1 of COMP30023
+//1312068， Yicheng Zhao
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
